@@ -1,0 +1,9 @@
+Malaria_scenarios_Kenya;;;;;
+descriptor;strategy;sector;cost_category;implementing_agency;decision_scale
+Info campaign to encourage the use of bed nets in endemic areas;Preventation;Health sector;Low;NGO and local health centres;National
+Indoor residual spraying with pyrethroides;Preventation;Health sector;Low;County health authorities;County
+Indoor residual spraying with more expensive insecticide;Preventation;Health sector;Medium;County health authorities;County
+Improve housing, part-funded through private sector;Preventation;Health sector;High;Planning authorities;County
+Improve housing, part-funded through IMF loan;Preventation;Health sector;High;Planning authorities;County
+Free Artemisinin part-funded through private sector;Treatment;Health sector;High;Local health centres;National
+Free Artemisinin part-funded through IMF loan;Treatment;Health sector;High;Local health centres;National
